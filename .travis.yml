@@ -1,6 +1,7 @@
 language: c
 dist: trusty
-
+arch:
+  - ppc64le
 compiler:
   - clang
   - gcc
